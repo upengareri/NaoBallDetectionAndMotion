@@ -1,4 +1,4 @@
-#Names: Upendar_Gareri, Jennifer_Victor, Anusha_Karemane_JayaKumar
+#created by Upendar Gareri
 
 import cv2
 import imutils
